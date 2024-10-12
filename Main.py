@@ -52,6 +52,7 @@ endtime = datetime.datetime(1970,1,1,endh,endm,ends)
 finaltime =  (endtime.minute * 60)-(starttime.minute*60) + endtime.second - starttime.second
 print('Log time:', finaltime, 'seconds')
 
+#Parsing
 x = 0
 for line in lines:
     lines[x]= line[9:]
@@ -115,16 +116,31 @@ for line in stage2:
     pos=line[20:].find('of')+20
     
     atype=line[pos+3:]
-    
+    Atktype.append(atype)
+
     if atype.find('time')>0:
-       dmgtype.append("dot")
+        dmgtype.append("dot")
     else:
-       dmgtype.append("normal")
+        dmgtype.append("normal")
     
-      Atktype.append(atype)
     if x >= numattacks:
         break
     x+=1
 
-    
-    
+#Final Sorting
+atklist = list(set(attackname))
+x=0
+y=0
+templist=[]
+atkdmg=[]
+for lines in attackname:
+    templist=lines,damage[x]
+    atkdmg.append(templist)
+
+seen=set()
+finallist=[]
+for x in atkdmg:
+    t = tuple(x)
+    if t not in seen:
+        finallist.append(x)
+        seen.add(t)
