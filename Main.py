@@ -1,5 +1,6 @@
 import sys
 import datetime
+import re
 
 if len(sys.argv) != 2:
     print("Usage: python load_file.py <file_path>")
@@ -85,4 +86,45 @@ for line in attacks:
     x+=1
 
 x=0
-stage3=[]
+attackname=[]
+alen =0
+dmgpos=0
+for line in stage2:
+    dmgpos = re.search(r"\d", line)
+    attackname.append(line[:dmgpos.start()-4].strip())
+    if x >= numattacks:
+        break
+    x+=1
+
+damage=[]
+x=0
+dmgpos=[]
+for line in stage2:
+    dmgpos = list(map(int, re.findall(r'\d+', line)))
+    damage.append(dmgpos[0]+(dmgpos[1]/100))
+    if x >= numattacks:
+        break
+    x+=1
+
+Atktype=[]
+x=0
+pos=0
+dmgtype=[]
+atype=''
+for line in stage2:
+    pos=line[20:].find('of')+20
+    
+    atype=line[pos+3:]
+    
+    if atype.find('time')>0:
+       dmgtype.append("dot")
+    else:
+       dmgtype.append("normal")
+    
+      Atktype.append(atype)
+    if x >= numattacks:
+        break
+    x+=1
+
+    
+    
