@@ -1,0 +1,202 @@
+2024-10-12 10:44:02 Your chat is now being logged.
+2024-10-12 10:44:02 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:02 Radiation Siphon is recharged.
+2024-10-12 10:44:03 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:03 Radioactive Smash is recharged.
+2024-10-12 10:44:04 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:04 Atom Smasher is recharged.
+2024-10-12 10:44:05 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:06 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:07 You hit Vanguard Training Pylon with your Scirocco's Dervish: Chance for Lethal Damage for 57.39 points of Lethal damage.
+2024-10-12 10:44:07 You hit Vanguard Training Pylon with your Obliteration: Chance for Smashing Damage for 57.39 points of Smashing damage.
+2024-10-12 10:44:07 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:07 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:07 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:08 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:09 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:10 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:11 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:12 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:13 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:14 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:15 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:16 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:16 [Looking For Group] Glitterful J: <color #ffffff><bgcolor #3881c4>Anyone doing KM TF?
+2024-10-12 10:44:17 You slow Vanguard Training Pylon's attack rate.
+2024-10-12 10:44:17 You hit Vanguard Training Pylon with your Touch of Lady Grey: Chance for Negative Energy Damage for 57.39 points of Negative Energy damage.
+2024-10-12 10:44:17 You hit Vanguard Training Pylon with your Scirocco's Dervish: Chance for Lethal Damage for 57.39 points of Lethal damage.
+2024-10-12 10:44:17 X0-1 Radon heals you with their Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:44:17 You heal X0-1 Radon with Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:44:17 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:17 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:17 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:17 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:17 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:18 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:19 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:27 X0-1 Radon heals you with their Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:44:27 You heal X0-1 Radon with Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:44:27 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:27 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:27 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:27 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:32 [Looking For Group] Protectoor: <color #010101>SBB PD LF2M
+2024-10-12 10:44:35 You have purchased Gold.
+2024-10-12 10:44:37 X0-1 Radon heals you with their Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:44:37 You heal X0-1 Radon with Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:44:37 X0-1 Radon hits you with their Panacea: Chance for +Hit Points/Endurance granting you 7.8 points of endurance.
+2024-10-12 10:44:37 You hit X0-1 Radon with your Panacea: Chance for +Hit Points/Endurance granting them 7.8 points of endurance.
+2024-10-12 10:44:47 You activated the Radioactive Smash power.
+2024-10-12 10:44:47 Readying Radioactive Smash.
+2024-10-12 10:44:47 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:47 You hit Vanguard Training Pylon with your Touch of Lady Grey: Chance for Negative Energy Damage for 57.39 points of Negative Energy damage.
+2024-10-12 10:44:47 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:48 HIT Vanguard Training Pylon! Your Radioactive Smash power had a 83.24% chance to hit, you rolled a 16.20.
+2024-10-12 10:44:48 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:48 You hit Vanguard Training Pylon with your Radioactive Smash for 15.63 points of Smashing damage.
+2024-10-12 10:44:48 You hit Vanguard Training Pylon with your Radioactive Smash for 46.9 points of Energy damage.
+2024-10-12 10:44:48 You knock Vanguard Training Pylon off their feet with your Radioactive Smash!
+2024-10-12 10:44:48 Your attack rate has been increased.
+2024-10-12 10:44:48 HIT X0-1 Radon! Your Force Feedback: Chance for +Recharge power is autohit.
+2024-10-12 10:44:48 X0-1 Radon HITS you! Force Feedback: Chance for +Recharge power was autohit.
+2024-10-12 10:44:48 Now readying Devastating Blow instead of Radioactive Smash.
+2024-10-12 10:44:48 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:48 You activated the Devastating Blow power.
+2024-10-12 10:44:48 Readying Devastating Blow.
+2024-10-12 10:44:49 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:50 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:51 HIT Vanguard Training Pylon! Your Devastating Blow power had a 95.00% chance to hit, you rolled a 51.17.
+2024-10-12 10:44:51 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:51 You hit Vanguard Training Pylon with your Devastating Blow for 32.53 points of Smashing damage.
+2024-10-12 10:44:51 You hit Vanguard Training Pylon with your Devastating Blow for 97.62 points of Energy damage.
+2024-10-12 10:44:51 You contaminate Vanguard Training Pylon!
+2024-10-12 10:44:51 Radioactive Smash is recharged.
+2024-10-12 10:44:51 Now readying Atom Smasher instead of Devastating Blow.
+2024-10-12 10:44:51 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:51 You activated the Atom Smasher power.
+2024-10-12 10:44:51 Readying Atom Smasher.
+2024-10-12 10:44:52 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:53 HIT Vanguard Training Pylon! Your Atom Smasher power had a 95.00% chance to hit, you rolled a 35.10.
+2024-10-12 10:44:53 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:53 You hit Vanguard Training Pylon with your Atom Smasher for 31.09 points of Energy damage.
+2024-10-12 10:44:53 You hit Vanguard Training Pylon with your Atom Smasher for 93.3 points of Toxic damage.
+2024-10-12 10:44:54 Now readying Radiation Siphon instead of Atom Smasher.
+2024-10-12 10:44:54 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:54 You activated the Radiation Siphon power.
+2024-10-12 10:44:54 Readying Radiation Siphon.
+2024-10-12 10:44:55 Now readying Radioactive Smash instead of Radiation Siphon.
+2024-10-12 10:44:55 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:56 HIT Vanguard Training Pylon! Your Radiation Siphon power had a 95.00% chance to hit, you rolled a 92.73.
+2024-10-12 10:44:56 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:56 You hit Vanguard Training Pylon with your Radiation Siphon for 20.7 points of Smashing damage.
+2024-10-12 10:44:56 You hit Vanguard Training Pylon with your Radiation Siphon for 62.12 points of Energy damage.
+2024-10-12 10:44:56 You hit Vanguard Training Pylon with your Touch of the Nictus: Chance for Negative Energy Damage for 57.39 points of Negative Energy damage.
+2024-10-12 10:44:56 You are healed by your Radiation Siphon for 253 health points over time.
+2024-10-12 10:44:56 Your absorb the radioactive contamination from Vanguard Training Pylon!
+2024-10-12 10:44:56 [Looking For Group] Protectoor: <color #010101>SBB full ty
+2024-10-12 10:44:56 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:57 You activated the Radioactive Smash power.
+2024-10-12 10:44:57 Your Hasten drains 14.99 points of your endurance.
+2024-10-12 10:44:57 You are healed by your Radiation Siphon for 253 health points over time.
+2024-10-12 10:44:57 You slow Vanguard Training Pylon's attack rate.
+2024-10-12 10:44:57 X0-1 Radon hits you with their Panacea: Chance for +Hit Points/Endurance granting you 7.8 points of endurance.
+2024-10-12 10:44:57 You hit X0-1 Radon with your Panacea: Chance for +Hit Points/Endurance granting them 7.8 points of endurance.
+2024-10-12 10:44:57 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:57 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:57 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:44:57 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:44:57 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:58 HIT Vanguard Training Pylon! Your Radioactive Smash power had a 90.80% chance to hit, you rolled a 74.33.
+2024-10-12 10:44:58 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:58 You hit Vanguard Training Pylon with your Radioactive Smash for 15.63 points of Smashing damage.
+2024-10-12 10:44:58 You hit Vanguard Training Pylon with your Radioactive Smash for 46.9 points of Energy damage.
+2024-10-12 10:44:58 You contaminate Vanguard Training Pylon!
+2024-10-12 10:44:58 You knock Vanguard Training Pylon off their feet with your Radioactive Smash!
+2024-10-12 10:44:58 You are healed by your Radiation Siphon for 253 health points over time.
+2024-10-12 10:44:58 Readying Ground Zero.
+2024-10-12 10:44:58 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:59 You activated the Ground Zero power.
+2024-10-12 10:44:59 HIT Vanguard Training Pylon! Your Ground Zero power had a 95.00% chance to hit, you rolled a 10.83.
+2024-10-12 10:44:59 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:44:59 You hit Vanguard Training Pylon with your Ground Zero for 56.25 points of Energy damage.
+2024-10-12 10:44:59 You hit Vanguard Training Pylon with your Obliteration: Chance for Smashing Damage for 57.39 points of Smashing damage.
+2024-10-12 10:45:00 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:00 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:01 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:01 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:01 Devastating Blow is recharged.
+2024-10-12 10:45:02 You activated the Devastating Blow power.
+2024-10-12 10:45:02 Readying Devastating Blow.
+2024-10-12 10:45:02 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:02 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:03 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:03 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:04 Radiation Siphon is recharged.
+2024-10-12 10:45:04 HIT Vanguard Training Pylon! Your Devastating Blow power had a 95.00% chance to hit, you rolled a 7.84.
+2024-10-12 10:45:04 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:04 You hit Vanguard Training Pylon with your Devastating Blow for 32.53 points of Smashing damage.
+2024-10-12 10:45:04 You hit Vanguard Training Pylon with your Devastating Blow for 97.62 points of Energy damage.
+2024-10-12 10:45:04 You Stun Vanguard Training Pylon with your Devastating Blow.
+2024-10-12 10:45:04 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:04 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:04 Now readying Radiation Siphon instead of Devastating Blow.
+2024-10-12 10:45:05 Radioactive Smash missed!
+2024-10-12 10:45:05 MISSED Vanguard Training Pylon!! Your Radioactive Smash power had a 90.18% chance to hit, you rolled a 96.09.
+2024-10-12 10:45:05 You activated the Radiation Siphon power.
+2024-10-12 10:45:05 Readying Radiation Siphon.
+2024-10-12 10:45:05 Radioactive Smash is recharged.
+2024-10-12 10:45:05 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:05 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:06 Now readying Radioactive Smash instead of Radiation Siphon.
+2024-10-12 10:45:06 HIT Vanguard Training Pylon! Your Radiation Siphon power was forced to hit by streakbreaker.
+2024-10-12 10:45:06 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:06 You hit Vanguard Training Pylon with your Radiation Siphon for 20.7 points of Smashing damage.
+2024-10-12 10:45:06 You hit Vanguard Training Pylon with your Radiation Siphon for 62.12 points of Energy damage.
+2024-10-12 10:45:06 You hit Vanguard Training Pylon with your Touch of the Nictus: Chance for Negative Energy Damage for 57.39 points of Negative Energy damage.
+2024-10-12 10:45:06 You are healed by your Radiation Siphon for 253 health points over time.
+2024-10-12 10:45:06 Your absorb the radioactive contamination from Vanguard Training Pylon!
+2024-10-12 10:45:06 Atom Smasher is recharged.
+2024-10-12 10:45:06 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:06 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:07 Now readying Atom Smasher instead of Radioactive Smash.
+2024-10-12 10:45:07 You activated the Atom Smasher power.
+2024-10-12 10:45:07 You hit Vanguard Training Pylon with your Scirocco's Dervish: Chance for Lethal Damage for 57.39 points of Lethal damage.
+2024-10-12 10:45:07 You are healed by your Radiation Siphon for 253 health points over time.
+2024-10-12 10:45:07 X0-1 Radon heals you with their Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:45:07 You heal X0-1 Radon with Panacea: Chance for +Hit Points/Endurance for 64.58 health points.
+2024-10-12 10:45:07 X0-1 Radon hits you with their Performance Shifter: Chance for +Endurance granting you 10.41 points of endurance.
+2024-10-12 10:45:07 You hit X0-1 Radon with your Performance Shifter: Chance for +Endurance granting them 10.41 points of endurance.
+2024-10-12 10:45:07 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:07 Readying Atom Smasher.
+2024-10-12 10:45:07 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:08 You are healed by your Radiation Siphon for 253 health points over time.
+2024-10-12 10:45:08 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:08 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:09 Now readying Radioactive Smash instead of Atom Smasher.
+2024-10-12 10:45:09 HIT Vanguard Training Pylon! Your Atom Smasher power had a 95.00% chance to hit, you rolled a 45.69.
+2024-10-12 10:45:09 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:09 You hit Vanguard Training Pylon with your Atom Smasher for 31.09 points of Energy damage.
+2024-10-12 10:45:09 You hit Vanguard Training Pylon with your Atom Smasher for 93.3 points of Toxic damage.
+2024-10-12 10:45:09 You Stun Vanguard Training Pylon with your Atom Smasher.
+2024-10-12 10:45:09 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:09 You hit Vanguard Training Pylon with your Ground Zero for 5.62 points of Toxic damage over time.
+2024-10-12 10:45:10 You activated the Radioactive Smash power.
+2024-10-12 10:45:10 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:11 HIT Vanguard Training Pylon! Your Radioactive Smash power had a 89.18% chance to hit, you rolled a 71.55.
+2024-10-12 10:45:11 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:11 You hit Vanguard Training Pylon with your Radioactive Smash for 15.63 points of Smashing damage.
+2024-10-12 10:45:11 You hit Vanguard Training Pylon with your Radioactive Smash for 46.9 points of Energy damage.
+2024-10-12 10:45:11 You knock Vanguard Training Pylon off their feet with your Radioactive Smash!
+2024-10-12 10:45:11 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:11 Your attack rate has been increased.
+2024-10-12 10:45:11 HIT X0-1 Radon! Your Force Feedback: Chance for +Recharge power is autohit.
+2024-10-12 10:45:11 X0-1 Radon HITS you! Force Feedback: Chance for +Recharge power was autohit.
+2024-10-12 10:45:12 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:13 Radiation Siphon is recharged.
+2024-10-12 10:45:13 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:14 <color #ffaaff><color2 #ffaaff><colorhover #ffaaff><colorselect #0><colorselectbg #333333><link #ffaaff><linkhover #ffd2ff><linkselect #0><linkselectbg #666666>Unknown command: chatlog
+2024-10-12 10:45:14 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:15 Radioactive Smash is recharged.
+2024-10-12 10:45:15 You Taunt Vanguard Training Pylon with your Gauntlet.
+2024-10-12 10:45:16 Devastating Blow is recharged.
+2024-10-12 10:45:16 You Taunt Vanguard Training Pylon with your Gauntlet.

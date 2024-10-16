@@ -1,6 +1,8 @@
 import sys
 import datetime
 import re
+import pandas as pd
+
 
 if len(sys.argv) != 2:
     print("Usage: python load_file.py <file_path>")
@@ -26,6 +28,7 @@ except Exception as e:
 linecount-=1
 x=0
 startx=0
+
 for line in lines:
     if line.find('You hit')>0:
          startx=line.find('You hit')
@@ -100,9 +103,19 @@ for line in stage2:
 damage=[]
 x=0
 dmgpos=[]
+
+
+
+
 for line in stage2:
     dmgpos = list(map(int, re.findall(r'\d+', line)))
-    damage.append(dmgpos[0]+(dmgpos[1]/100))
+   
+    if len(dmgpos) != 1:
+        print(dmgpos)
+        damage.append(dmgpos[0]+(dmgpos[1]/100))
+    else:
+        
+        damage.append(dmgpos[0])
     if x >= numattacks:
         break
     x+=1
@@ -128,19 +141,41 @@ for line in stage2:
     x+=1
 
 #Final Sorting
-atklist = list(set(attackname))
+atknames = list(set(attackname))
+al = pd.Series(attackname)
+dmg = pd.Series(damage)
+dt = pd.Series(dmgtype)
+dc = pd.Series(Atktype)
 x=0
-y=0
-templist=[]
-atkdmg=[]
-for lines in attackname:
-    templist=lines,damage[x]
-    atkdmg.append(templist)
+atkdmgdf = pd.DataFrame()
+atkdmgdf['Atkname'] = al
+atkdmgdf['damage'] = dmg
+atkdmgdf['dmgtype'] = dt
+atkdmgdf['atktype']=dc
 
-seen=set()
-finallist=[]
-for x in atkdmg:
-    t = tuple(x)
-    if t not in seen:
-        finallist.append(x)
-        seen.add(t)
+data = {'Attack':al,'Damage':dmg,'Damage Type':dc,'Damage Class':dt}
+
+atkdps = pd.DataFrame(data)
+atkdps = atkdps[atkdps['Damage Type'].str.contains('damage')==True]
+
+agg_functions = {'Attack':'first','Damage Type':'first', 'Damage': 'sum'}
+newdps = pd.DataFrame()
+newdps = atkdps.groupby(['Attack','Damage Type'])['Damage'].sum().reset_index
+
+adps = pd.DataFrame()
+adps = atkdps.groupby(['Attack'])['Damage'].sum().div(finaltime).reset_index
+print('DPS per Attack:')
+print(adps)
+print('')
+print('')
+tdps = pd.DataFrame()
+tdps = atkdps.groupby(['Damage Type'])['Damage'].sum().div(finaltime).reset_index
+
+print('DPS per Type:')
+print(tdps)
+print('')
+print('')
+totdps = atkdps['Damage'].sum()
+totdps = totdps/finaltime
+print('Total DPS:')
+print(totdps)
