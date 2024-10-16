@@ -5,7 +5,7 @@ from datetime import date
 import re
 import pandas as pd
 from pytimeparse.timeparse import timeparse
-#import gradio as gr
+
 
 
 
@@ -271,14 +271,4 @@ outstring=ParseFunction(sys.argv[1],sys.argv[2])
 print(outstring)
 
 
-#GUI = gr.Blocks()
-#with GUI:
-#    with gr.Row():
-#        with gr.Column():
-#            fileloc = gr.Textbox(label="File Location")
-#            parse_btn = gr.Button(value="Parse")
-#        with gr.Column():
-#            parseout = gr.Textbox(label="Output")
-#        parse_btn.click(ParseFunction, inputs=fileloc, outputs=parseout, api_name="parse log file")
-
-#GUI.launch()
+#GUI goes here :)
