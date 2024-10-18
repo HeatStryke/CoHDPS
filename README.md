@@ -7,7 +7,7 @@ GUI may come in the future.
 ## Useage
 Parse.py is the main program, it now has a basic UI via Gradio
 
->python parse.py "File Location", time between combats
+>python parse.py "File Location"
 
 GUI being worked on.
 
