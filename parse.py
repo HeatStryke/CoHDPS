@@ -5,8 +5,10 @@ from datetime import date
 import re
 import pandas as pd
 from pytimeparse.timeparse import timeparse
-
-
+#import dash
+#from dash import Dash, dcc, html, Input, Output, callback, dash_table
+#import plotly.express as px
+#import dash_bootstrap_components as dbc
 
 
 
@@ -164,7 +166,9 @@ def ParseFunction(file_path,tba):
     data = {'Chunk':Chunk, 'Time':timedata,'Source':source, 'Attack':attack,'Target':target, 'Amount':amount, 'Damage_Type':damagetype,'Damage_Class':damageclass}
     #print (len(Chunk),len(timedata),len(source),len(attack),len(target),len(amount),len(amount),len(damagetype),len(damageclass))
     df=pd.DataFrame(data)
-    
+
+    #END FUNCTION HERE
+
     #determine time by chunk
     time1=0
     time2=0
@@ -173,6 +177,7 @@ def ParseFunction(file_path,tba):
     chunktime=0
     conditions=''
     tf=pd.DataFrame()
+    
     for i in range(1,chunkcount+1):
 
         outputstring= outputstring+ 'Combat ' + str(i) + "\n"
@@ -266,9 +271,60 @@ def ParseFunction(file_path,tba):
     
     return outputstring
 
+#dft = pd.DataFrame
 
-outstring=ParseFunction(sys.argv[1],sys.argv[2])
-print(outstring)
+dft=ParseFunction(sys.argv[1],45)
+print(dft)
 
 
-#GUI goes here :)
+# chunkcount = df[df.columns[0]].count()
+# #GUI goes here :)
+
+# app = Dash()
+# app.layout = html.Div(
+#     [
+#         html.H4("City of Heroes DPS/HPS Parser"),
+#         dcc.Graph(id="graph"),
+#         html.P("Combat:"),
+#         OptionList = [{'label': i, 'value': i} for i in dft.unique()]
+#         dcc.Dropdown(
+#             id="combat",
+#             options=[],
+#             value="DPS",
+#             clearable=False,
+#         ),
+#         html.P("DPS/HPS:"),
+#         dcc.Dropdown(
+#             id="class",
+#             options=["Damage", "Healing"],
+#             value="DPS",
+#             clearable=False,
+#         ),
+#         html.P("Graph Type:"),
+#         dcc.Dropdown(
+#             id="type",
+#             options=["By Source", "By Attack", "By Type"],
+#             value="By Source",
+#             clearable=False,
+#         ),
+#     ]
+# )
+
+# @app.callback(
+#     Output("combat", "class","type"),
+#     Input("combat", "value"),
+#     Input("class", "value"),
+#     Input("type", "value"),
+# )
+
+
+# def generate_chart(combat, dclass, type,df):
+#     if dclass != 'Healing'
+#     tf = df.loc[df['Chunk'==combat, 'Damage Class'==dclass]]
+#     fig = px.pie(df, , hole=0.3)
+#     return fig
+
+
+# # Run the app
+# if __name__ == '__main__':
+#     app.run(debug=True)
